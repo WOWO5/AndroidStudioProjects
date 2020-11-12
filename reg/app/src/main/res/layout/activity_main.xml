@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/touxiang"/>
+    <EditText
+        android:id="@+id/et_yonghuming"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dp"
+        android:hint="请输入用户名"
+        android:drawableLeft="@mipmap/yonghuming"/>
+    <EditText
+        android:id="@+id/et_mima"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dp"
+        android:hint="请输入密码"
+        android:drawableLeft="@mipmap/mima"/>
+
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="385dp"
+        android:layout_height="wrap_content"
+        android:background="#0043EF"
+        android:text="注册"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>

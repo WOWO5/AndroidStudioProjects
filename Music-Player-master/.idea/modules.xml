@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Music-Player-master.iml" filepath="$PROJECT_DIR$/.idea/Music-Player-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Music-Player-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Music-Player-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app02/Music-Player-master.app02.iml" filepath="$PROJECT_DIR$/.idea/modules/app02/Music-Player-master.app02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapplication01/Music-Player-master.myapplication01.iml" filepath="$PROJECT_DIR$/.idea/modules/myapplication01/Music-Player-master.myapplication01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapplicationexercise/Music-Player-master.myapplicationexercise.iml" filepath="$PROJECT_DIR$/.idea/modules/myapplicationexercise/Music-Player-master.myapplicationexercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shaoshuai/Music-Player-master.shaoshuai.iml" filepath="$PROJECT_DIR$/.idea/modules/shaoshuai/Music-Player-master.shaoshuai.iml" />
+    </modules>
+  </component>
+</project>
