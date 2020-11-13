@@ -9,6 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ActivityTest">
+
+
         <activity android:name=".ThirdActivity"
             >
             <intent-filter>
@@ -16,6 +18,8 @@
                 <category android:name="android.intent.category.DEFAULT"></category>
             </intent-filter>
         </activity>
+
+
         <activity android:name=".SecondActivity"
 
             >
@@ -25,6 +29,8 @@
                 <category android:name="com.example.activitytest.MY_CATEGORY" />
             </intent-filter>
         </activity>
+
+
         <activity
             android:name=".FirstActivity"
             android:launchMode="singleInstance"
@@ -34,6 +40,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
     </application>
 
 </manifest>
