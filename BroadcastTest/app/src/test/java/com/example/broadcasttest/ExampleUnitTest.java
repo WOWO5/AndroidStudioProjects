@@ -1,4 +1,4 @@
-package example.com;
+package com.example.broadcasttest;
 
 import org.junit.Test;
 
